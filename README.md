@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Faresboui
-- 👀 I’m interested in Front-end web development
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning HTML CSS JS REACT
 
 <!---
